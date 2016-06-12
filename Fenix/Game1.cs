@@ -216,17 +216,17 @@ namespace Fenix
                 if (randomValue == 0 && enemy.Position.X + enemy.Width < 0)
                 {
                     enemy.Position = new Vector2(1000, rand.Next(70, 150));
-                    enemy.Speed += .9f;
+                    enemy.Speed += .7f;
                 }
                 if (randomValue == 1 && enemy2.Position.X + enemy2.Width < 0)
                 {
                     enemy2.Position = new Vector2(1000, rand.Next(250, 350));
-                    enemy2.Speed += 1.2f;
+                    enemy2.Speed += .9f;
                 }
                 if (randomValue == 2 && enemy3.Position.X + enemy3.Width < 0)
                 {
                     enemy3.Position = new Vector2(1000, rand.Next(460, 590));
-                    enemy3.Speed += 1.5f;
+                    enemy3.Speed += 1.2f;
                 }
             }
         }
