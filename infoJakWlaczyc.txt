@@ -1,0 +1,2 @@
+1. Aby uruchomić projekt poprzez Visual Studio należy pobrać ze strony http://www.monogame.net/downloads/ MonoGame for Visual Studio.
+2. Bez zainstalowanego MonoGame można włączyć plik exe znajdujący się w folderach projektu.
