@@ -40,7 +40,6 @@
   <ItemGroup>
     <Compile Include="Game1.cs" />
     <Compile Include="MovingBackground.cs" />
-    <Compile Include="MovingObject.cs" />
     <Compile Include="Object.cs" />
     <Compile Include="ObjectInterface.cs" />
     <Compile Include="Player.cs" />
