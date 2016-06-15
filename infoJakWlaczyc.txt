@@ -1,2 +1,6 @@
 1. Aby uruchomić projekt poprzez Visual Studio należy pobrać ze strony http://www.monogame.net/downloads/ MonoGame for Visual Studio.
 2. Bez zainstalowanego MonoGame można włączyć plik exe znajdujący się w folderach projektu.
+3. Sterowanie:
+  strzałki góra i dół oraz spacja (spacja tylko w menu)
+4. Dotknięcie latającego obiektu powoduje zabicie gracza i koniec gry, aby zagrać ponownie trzeba nacisnąć spację w menu końcowym.
+5. W prawym górnym rogu pokazane jest życie gracza, dotknięcie wody zabiera życie, a dotknięcie lawy regeneruje je.
